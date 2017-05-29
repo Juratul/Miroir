@@ -1,16 +1,14 @@
 # Server Echec Bomber
 Projet final
 
-#OUTILS
-
--Html/CSS/Javascript/PHP/bootstra
-
 #OBJECTIF
 
 Réaliser un server web pour le jeu Echec Bomber ainsi qu'un site (profil, espace communautaire, mode,  news)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+#COMPOSANTS
 
 -Espace communautaire : forum de discution, création de topics 
 
@@ -26,5 +24,10 @@ Réaliser un server web pour le jeu Echec Bomber ainsi qu'un site (profil, espac
 -Benchmark : Articles openclassrooms sur node.js et socket.io (pour le server)
              Site tel que jeuxvidéo.com ou d'autre forum pour les fonctionalitées du site
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+#OUTILS
+
+-Html/CSS/Javascript/PHP/bootstra
 
 
